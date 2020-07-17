@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NebulaAutomatedTestsProject", "NebulaAutomatedTestsProject.csproj", "{75E6C3E4-50BD-4F05-A23E-E7963FAF3323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E6C3E4-50BD-4F05-A23E-E7963FAF3323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E6C3E4-50BD-4F05-A23E-E7963FAF3323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E6C3E4-50BD-4F05-A23E-E7963FAF3323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E6C3E4-50BD-4F05-A23E-E7963FAF3323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B1B04A6-B8C5-47CF-AFEA-F6400C60A894}
+	EndGlobalSection
+EndGlobal
